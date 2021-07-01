@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="FatChick_v1.6_fit.svg"
+    viewBox="0 0 301.38 242.2"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <sodipodi:namedview
+      id="base"
+      inkscape:snap-center="true"
+      showguides="false"
+      inkscape:zoom="2.8"
+      borderopacity="1.0"
+      inkscape:snap-intersection-paths="true"
+      inkscape:cx="190.18465"
+      inkscape:cy="105.85031"
+      inkscape:snap-bbox-midpoints="true"
+      inkscape:object-paths="true"
+      inkscape:window-maximized="1"
+      inkscape:snap-bbox="false"
+      showgrid="false"
+      inkscape:snap-nodes="true"
+      inkscape:guide-bbox="true"
+      inkscape:snap-midpoints="true"
+      inkscape:snap-global="false"
+      inkscape:document-units="px"
+      bordercolor="#666666"
+      inkscape:window-x="0"
+      inkscape:window-y="24"
+      inkscape:snap-smooth-nodes="true"
+      inkscape:object-nodes="true"
+      inkscape:window-width="1680"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      inkscape:snap-object-midpoints="true"
+      inkscape:bbox-paths="true"
+      inkscape:bbox-nodes="true"
+      inkscape:snap-bbox-edge-midpoints="true"
+      inkscape:current-layer="layer2"
+      inkscape:window-height="999"
+    >
+    <sodipodi:guide
+        id="guide3139"
+        position="227.49536,206.27311"
+        orientation="0,1"
+    />
+    <sodipodi:guide
+        id="guide3141"
+        position="257.3134,206.27311"
+        orientation="1,0"
+    />
+    <sodipodi:guide
+        id="guide3143"
+        position="227.49536,206.27311"
+        orientation="1,0"
+    />
+  </sodipodi:namedview
+  >
+  <g
+      id="layer2"
+      inkscape:label="Chick"
+      inkscape:groupmode="layer"
+      transform="translate(-215.44 -359.86)"
+    >
+    <path
+        id="path2830-4"
+        style="fill:#ffe000"
+        d="m443.22 362.86c-19.133 0.31171-40.676 10.252-57.375 34.938 0 0-88.902-13.158-114.16 21.188 0 0-92.912-2.0124-33.312 30.312-62.629 158.59 278.79 187.89 243.44-25.25 22.002-31.709-4.4871-61.743-38.594-61.188zm14.812 20.188c1.2528 0.0219 2.5289 0.24258 3.7812 0.65625 6.6791 2.2062 10.3 9.3834 8.0938 16.062-2.2062 6.6791-9.4146 10.331-16.094 8.125-6.6791-2.2062-10.3-9.4146-8.0938-16.094 1.7926-5.4268 6.8838-8.8449 12.312-8.75z"
+    />
+    <path
+        id="path2830-2"
+        sodipodi:nodetypes="ccc"
+        style="fill:#ffae00"
+        d="m234.04 501.14c21.123 97.925 211.51 102.46 246.64-9.6596-75.428 122.45-214.01 68.899-246.64 9.6596z"
+    />
+    <path
+        id="path3147"
+        sodipodi:nodetypes="ccc"
+        style="fill:#ffae00"
+        d="m241.19 450.41c-12.222-3.2525-23.917-13.063-19.75-19.25-0.83784 5.2648 24.517 8.4224 19.75 19.25z"
+    />
+    <path
+        id="path3179"
+        sodipodi:nodetypes="ccc"
+        style="fill:#ffae00"
+        d="m468.94 417.45s19.904 5.4952 15.681 30.809c-1.25-10.982-15.681-30.809-15.681-30.809z"
+    />
+    <path
+        id="path2830"
+        style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#000000"
+        d="m445.78 359.88c-20.376-0.51476-43.506 9.4199-61.281 34.75-2.5704-0.3629-22.249-3.084-46.344-2.125-25.099 0.99898-53.631 5.895-67.75 23.5-2.149-0.0441-22.714-0.40724-38.344 3.0938-4.114 0.92153-7.8318 2.096-10.812 3.8125-2.9808 1.7165-5.5148 4.2791-5.7812 7.7812-0.26647 3.5022 1.6703 6.8385 5.1562 10.188 3.0826 2.9615 7.855 6.1833 14.094 9.7188-14.678 39.444-4.7365 71.831 18.188 93.812 23.392 22.43 59.778 34.399 96.969 34.656 37.191 0.25693 75.328-11.267 102.09-36.688 26.577-25.241 41.566-64.23 33-117.69 8.3889-12.68 9.7059-25.54 5.7188-36.312-4.0986-11.073-13.498-19.813-25.406-24.562-5.9542-2.375-12.572-3.7625-19.5-3.9375zm-0.125 5.9688c6.2279 0.18406 12.122 1.4237 17.406 3.5312 10.568 4.2152 18.586 11.838 22 21.062 3.4144 9.2246 2.4503 20.178-5.6875 31.906a3.0003 3.0003 0 0 0 -0.5 2.1875c8.7131 52.528-5.6794 89.423-31.031 113.5s-62.018 35.279-97.938 35.031c-35.919-0.24814-70.937-11.994-92.844-33s-31.179-50.903-15.875-89.656a3.0003 3.0003 0 0 0 -1.375 -3.75c-7.312-3.9658-12.192-7.366-15.031-10.094-2.8393-2.7277-3.4087-4.5521-3.3438-5.4062 0.065-0.85412 0.72276-1.8591 2.8125-3.0625s5.3472-2.2788 9.125-3.125c15.11-3.39 38.28-2.97 38.28-2.97a3.0003 3.0003 0 0 0 2.5 -1.2188c11.524-15.672 39.198-21.284 64.25-22.281 25.052-0.99711 47.031 2.25 47.031 2.25a3.0003 3.0003 0 0 0 2.9375 -1.2812c16.944-25.048 38.597-34.177 57.281-33.625z"
+    />
+    <path
+        id="path28"
+        style="fill:#ffae00"
+        d="m471.21 415.46 18.019-17.819 24.587 16.799-30.666 14.45-11.94-13.43z"
+        sodipodi:nodetypes="ccccc"
+    />
+    <path
+        id="path3608"
+        sodipodi:nodetypes="ccsccc"
+        style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#000000"
+        d="m512.8 412.07-25.849-0.22084c-1.6224-0.0564-3.1328 1.4286-3.104 3.0517 0.0288 1.6232 1.5909 3.0536 3.2103 2.9397l26.173-2.5566c2.6237-0.0455 1.3943-2.7319-0.43062-3.214z"
+    />
+    <path
+        id="path3617-4"
+        sodipodi:nodetypes="ccssscssccsscssssscsc"
+        style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#ffae00"
+        d="m329.88 463.34c-0.47154 0.0271-0.93617 0.16759-1.3438 0.40625-6.0692 3.414-10.214 7.3441-12.562 11.438-2.3484 4.0934-2.841 8.488-1.3125 12.156 1.5284 3.6683 5.0036 6.2816 9.375 7.25 2.6989 0.59791 5.7824 0.54872 9.125-0.0625-1.857 5.4017-1.624 10.14 0.59375 13.844 3.0231 5.0481 8.9106 7.4861 15.25 8.125 12.679 1.2777 27.162-5.4416 33.518-17.949-0.004-5.1641-0.23565-6.1053-3.7679-1.3946-4.7152 9.2782-18.799 14.419-29.156 13.375-5.1784-0.52186-9.0454-2.4767-10.688-5.2188-1.6421-2.7421-1.8089-6.9684 2.25-13.844 0.63992-1.0637 0.52385-2.529-0.27555-3.4787-0.79941-0.94972-2.2234-1.3141-3.3807-0.86503-5.1167 1.9807-9.3044 2.2637-12.188 1.625-2.8831-0.63872-4.4213-2.0299-5.125-3.7188-0.70369-1.6889-0.64709-4.0041 1-6.875s4.9219-6.1729 10.281-9.1875c1.1771-0.64809 1.806-2.1533 1.4396-3.4462-0.36631-1.2929-1.6912-2.2445-3.0334-2.1788z"
+    />
+    <path
+        id="path3617"
+        style="fill:#ffe000"
+        d="m330 462.36c-22.857 12.857-13.571 32.143 8.5714 23.571-17.5 29.643 31.786 30.357 42.857 8.5714"
+        sodipodi:nodetypes="ccc"
+    />
+    <path
+        id="path3646"
+        sodipodi:nodetypes="cc"
+        style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:6;fill:none"
+        d="m345.73 576-1.9631 23.06"
+    />
+    <path
+        id="path3648"
+        sodipodi:nodetypes="cc"
+        style="stroke:#000000;stroke-linecap:round;stroke-width:6;fill:none"
+        d="m367.02 575.34-0.39719 21.445"
+    />
+    <path
+        id="path3145"
+        sodipodi:nodetypes="ccc"
+        style="fill:#ffae00"
+        d="m442.94 395.78c5.1786 16.696 23.836 16.964 29.818 0 0 20.982-29.818 23.214-29.818 0z"
+    />
+    <g
+        id="g3692"
+        style="fill:none"
+        transform="matrix(.77525 0 0 .77525 49.181 -75.629)"
+      >
+      <path
+          id="path3623-5"
+          sodipodi:rx="13.928572"
+          sodipodi:ry="13.928572"
+          style="stroke:#000000;stroke-width:4.7447;fill:none"
+          sodipodi:type="arc"
+          d="m464.29 397.72c0 7.6925-6.236 13.929-13.929 13.929-7.6925 0-13.929-6.236-13.929-13.929 0-7.6925 6.236-13.929 13.929-13.929 7.6925 0 13.929 6.236 13.929 13.929z"
+          transform="matrix(.36994 -1.12 1.12 .36994 -84.898 965.33)"
+          sodipodi:cy="397.71933"
+          sodipodi:cx="450.35715"
+      />
+      <path
+          id="path3627-1"
+          sodipodi:rx="6.0438538"
+          sodipodi:ry="6.0438538"
+          style="stroke:#000000;stroke-width:5.5515;fill:none"
+          sodipodi:type="arc"
+          d="m452.53 389.7c0 3.3379-2.7059 6.0438-6.0438 6.0438s-6.0439-2.7059-6.0439-6.0438 2.7059-6.0439 6.0439-6.0439c3.3379 0 6.0438 2.7059 6.0438 6.0439z"
+          transform="matrix(.39962 -1.2098 1.2098 .39962 -129.76 989.77)"
+          sodipodi:cy="389.70212"
+          sodipodi:cx="446.48743"
+      />
+    </g
+    >
+    <path
+        id="path53"
+        style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#000000"
+        d="m329.88 459.34a3.0003 3.0003 0 0 0 -1.3438 0.40625c-6.0692 3.414-10.214 7.3441-12.562 11.438-2.3484 4.0934-2.841 8.488-1.3125 12.156 1.5284 3.6683 5.0036 6.2816 9.375 7.25 2.6989 0.59791 5.7824 0.54872 9.125-0.0625-1.857 5.4017-1.624 10.14 0.59375 13.844 3.0231 5.0481 8.9106 7.4861 15.25 8.125 12.679 1.2777 28.737-4.1175 35.094-16.625a3.0003 3.0003 0 1 0 -5.35 -2.72c-4.7152 9.2782-18.799 14.419-29.156 13.375-5.1784-0.52186-9.0454-2.4767-10.688-5.2188-1.6421-2.7421-1.8089-6.9684 2.25-13.844a3.0003 3.0003 0 0 0 -3.66 -4.35c-5.1167 1.9807-9.3044 2.2637-12.188 1.625-2.8831-0.63872-4.4213-2.0299-5.125-3.7188-0.70369-1.6889-0.64709-4.0041 1-6.875s4.9219-6.1729 10.281-9.1875a3.0003 3.0003 0 0 0 -1.5938 -5.625z"
+    />
+    <path
+        id="path3606"
+        style="block-progression:tb;text-indent:0;color:#000000;text-transform:none;fill:#000000"
+        d="m489.22 394.64a3.0003 3.0003 0 0 0 -2.125 0.875l-18 17.812a3.0003 3.0003 0 0 0 -0.15625 4.125l11.938 13.438a3.0003 3.0003 0 0 0 3.5312 0.71875l30.656-14.438a3.0003 3.0003 0 0 0 0.4375 -5.2188l-24.594-16.781a3.0003 3.0003 0 0 0 -1.6875 -0.53125zm0.34375 6.875 18.219 12.469-23.906 11.219-8.5312-9.5938 14.219-14.094z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Poor Chick</dc:title
+        >
+        <dc:date
+          >2010-07-14T12:49:22</dc:date
+        >
+        <dc:description
+          >A pitiful chicken, which wants your love...</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/72883/poor-chick-by-pixelflake</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >pixelflake</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >Chick</rdf:li
+            >
+            <rdf:li
+              >Chicken</rdf:li
+            >
+            <rdf:li
+              >bird</rdf:li
+            >
+            <rdf:li
+              >birdie</rdf:li
+            >
+            <rdf:li
+              >orange</rdf:li
+            >
+            <rdf:li
+              >poor</rdf:li
+            >
+            <rdf:li
+              >yellow</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
