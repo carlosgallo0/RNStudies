@@ -1,0 +1,11 @@
+https://api.opentripmap.com/0.1/en/places/geoname?name=Rio&apikey=5ae2e3f221c38a28845f05b6141f16f24a51ba18ad01091fdf9c338e
+
+{
+  "name": "Rio",
+  "country": "BR",
+  "lat": -22.90642,
+  "lon": -43.18223,
+  "population": 6023699,
+  "timezone": "America/Sao_Paulo",
+  "status": "OK
+}

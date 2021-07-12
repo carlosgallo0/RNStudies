@@ -1,0 +1,208 @@
+  https://api.opentripmap.com/0.1/en/places/autosuggest?name=Museu&radius=4000&lon=-43.18223&lat=-22.90642&rate=1&apikey=5ae2e3f221c38a28845f05b6141f16f24a51ba18ad01091fdf9c338e
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "12918429",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.172199,
+          -22.9137
+        ]
+      },
+      "properties": {
+        "xid": "Q10286368",
+        "name": "Museu da Imagem e do Som do Rio de Janeiro",
+        "highlighted_name": "<b>Museu</b> da Imagem e do Som do Rio de Janeiro",
+        "dist": 1307.20011495,
+        "rate": 3,
+        "wikidata": "Q10286368",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12521670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.217041,
+          -22.904594
+        ]
+      },
+      "properties": {
+        "xid": "Q52333149",
+        "name": "Museu da Moda Brasileira",
+        "highlighted_name": "<b>Museu</b> da Moda Brasileira",
+        "dist": 3577.02217546,
+        "rate": 2,
+        "wikidata": "Q52333149",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13286882",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.179974,
+          -22.904528
+        ]
+      },
+      "properties": {
+        "xid": "Q17167652",
+        "name": "Museu do Negro",
+        "highlighted_name": "<b>Museu</b> do Negro",
+        "dist": 312.2771997,
+        "rate": 3,
+        "wikidata": "Q17167652",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13611058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.179977,
+          -22.908958
+        ]
+      },
+      "properties": {
+        "xid": "Q56694098",
+        "name": "Museu de Arte Sacra da Arquidiocese do Rio de Janeiro",
+        "highlighted_name": "<b>Museu</b> de Arte Sacra da Arquidiocese do Rio de Janeiro",
+        "dist": 364.05077769,
+        "rate": 1,
+        "wikidata": "Q56694098",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "455149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.186359,
+          -22.907526
+        ]
+      },
+      "properties": {
+        "xid": "N5670672670",
+        "name": "Museu e Centro Cultural da Casa da Moeda do Brasil",
+        "highlighted_name": "<b>Museu</b> e Centro Cultural da Casa da Moeda do Brasil",
+        "dist": 441.09219297,
+        "rate": 1,
+        "osm": "node/5670672670",
+        "wikidata": "Q64214769",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13250436",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.177963,
+          -22.904907
+        ]
+      },
+      "properties": {
+        "xid": "Q56695484",
+        "name": "Museu do Clube de Engenharia",
+        "highlighted_name": "<b>Museu</b> do Clube de Engenharia",
+        "dist": 468.60771753,
+        "rate": 1,
+        "wikidata": "Q56695484",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12709427",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.186855,
+          -22.906647
+        ]
+      },
+      "properties": {
+        "xid": "Q56694555",
+        "name": "Museu Histórico do Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
+        "highlighted_name": "<b>Museu</b> Histórico do Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
+        "dist": 475.15802301,
+        "rate": 1,
+        "wikidata": "Q56694555",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9387465",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.186855,
+          -22.909143
+        ]
+      },
+      "properties": {
+        "xid": "N559645157",
+        "name": "Museu do Corpo de Bombeiros",
+        "highlighted_name": "<b>Museu</b> do Corpo de Bombeiros",
+        "dist": 562.21574712,
+        "rate": 1,
+        "osm": "node/559645157",
+        "wikidata": "Q65620094",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3109645",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.178558,
+          -22.910429
+        ]
+      },
+      "properties": {
+        "xid": "N6208651320",
+        "name": "Museu do Bonde",
+        "highlighted_name": "<b>Museu</b> do Bonde",
+        "dist": 582.09934089,
+        "rate": 1,
+        "osm": "node/6208651320",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13611109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.181572,
+          -22.900658
+        ]
+      },
+      "properties": {
+        "xid": "Q56694724",
+        "name": "Museu João e Maria",
+        "highlighted_name": "<b>Museu</b> João e Maria",
+        "dist": 641.78120147,
+        "rate": 1,
+        "wikidata": "Q56694724",
+        "kinds": "museums,cultural,interesting_places,other_museums"
+      }
+    }
+  ]
+}

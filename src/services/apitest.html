@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <main></main>
+</body>
+
+<script>
+  async function getLocation(){
+    try{
+      const response = await fetch('https://api.opentripmap.com/0.1/en/places/geoname?name=Rio&apikey=5ae2e3f221c38a28845f05b6141f16f24a51ba18ad01091fdf9c338e')
+
+      console.log("Dando um console.log na response dentro do fetch:");
+      console.log(response);
+
+      const data = await response.json()
+
+      console.log("Dando um console.log no response.json:")
+      console.log(data);
+
+      console.log("Chamando a função showOutput: ")
+      showOutput(data)
+
+
+    } catch(error){
+      console.error(error)
+    }
+  }
+  console.log("Dando um console.log na função getLocation(), retorna uma Promisse: ")
+  console.log(getLocation())
+
+  function showOutput(data){
+    let output=`<div>lon=${data.lon}</div> <div>lat=${data.lat}</div> `
+
+    document.querySelector('main').innerHTML = output
+  }
+</script>
+
+</html>
