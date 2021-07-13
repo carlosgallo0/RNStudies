@@ -11,13 +11,24 @@ import {
 } from 'react-native';
 import {styles} from './styles'
 
+interface SkillData {
+  id: string
+  name: string
+  //date?: Date
+}
+myskills[0].
+
 export default function Home() {
   const [newSkill, setNewSkill] = useState('')
-  const [mySkills, setMySkills] = useState([])
+  const [mySkills, setMySkills] = useState<SkillData[]>([])
   const [greeting, setGreeting] = useState('')
 
   function handleAddNewSkill() {
-    setMySkills(oldState => [...oldState, newSkill]);
+    const data = {
+      id: String(new Date().getTime()),
+      name: newSkill
+    };
+    setMySkills(oldState => [...oldState, data]);
     //setMySkills([...mySkills, newSkill]) também pode ser assim
   }
 
