@@ -16,8 +16,6 @@ interface SkillData {
   name: string
   //date?: Date
 }
-myskills[0].
-
 export default function Home() {
   const [newSkill, setNewSkill] = useState('')
   const [mySkills, setMySkills] = useState<SkillData[]>([])
@@ -30,6 +28,10 @@ export default function Home() {
     };
     setMySkills(oldState => [...oldState, data]);
     //setMySkills([...mySkills, newSkill]) também pode ser assim
+  }
+
+  function handleRemoveSkill(id: string) {
+    setMySkills(oldState => oldState.filter(skill => skill.id !== id));
   }
 
   useEffect(() => {
@@ -63,10 +65,12 @@ export default function Home() {
 
       <FlatList
         data={mySkills}
-        keyExtractor={item => item}
+        keyExtractor={item => item.id}
         renderItem={({item}) => (
-          <TouchableOpacity style={styles.buttonSkill}>
-            <Text style={styles.skills}>{item}</Text>
+          <TouchableOpacity
+            style={styles.buttonSkill}
+            onPress={() => handleRemoveSkill(item.id)}>
+            <Text style={styles.skills}>{item.name}</Text>
           </TouchableOpacity>
         )}
       />
@@ -78,5 +82,5 @@ export default function Home() {
           </TouchableOpacity>
         )) */}
     </View>
-  )
+  );
 }
